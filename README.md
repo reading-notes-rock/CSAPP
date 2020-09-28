@@ -18,3 +18,9 @@ CSAPP[《深入理解计算机系统》](https://book.douban.com/subject/5333562
     [00前言](./notes/chapter-02/00前言.md)
 
     [01正文](./notes/chapter-02/01正文.md)
+
+- 第三章 程序的机器级表示
+
+    [00前言](./notes/chapter-03/00前言.md)
+
+    [01正文](./notes/chapter-03/01正文.md)
